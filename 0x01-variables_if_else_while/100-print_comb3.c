@@ -22,14 +22,12 @@ int main(void)
 				putchar(p);
 
 			if (d == '8' && p == '9')
-			{
 				continue;
 				putchar(',');
 				putchar(' ');
 		}
 		}
 		}
-}
 		putchar('\n');
 		return (0);
 	}
