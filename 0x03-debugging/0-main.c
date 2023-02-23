@@ -2,6 +2,7 @@
 
 /**
  * main - Test function for positive or negative
+ * Description : Debugging
  * Return: 0
  */
 
@@ -14,4 +15,3 @@ int main(void)
 
 return (0);
 }
-
